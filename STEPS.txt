@@ -1,0 +1,35 @@
+Assignment 2:
+
+1) git clone https://github.com/sachinpatil101/hw
+
+2) Added index.html file in participants directory.
+
+3) Creating a new repo in github.
+
+4) Initialising the git cloning file.
+
+5) git add .
+
+6) git commit -m "Added index.html file"
+
+7) git push -u origin master
+
+8) Checked in a github.
+
+9) git log 
+
+10) Added name in participants.md  file
+
+11) git add .
+
+12) git commit -m "Added name in participants.md"
+
+13) git push
+
+14) Update my name in participants.c file
+
+15) git add .
+
+16) git commit -m "Added my name in participants.c file"
+
+17) git push
